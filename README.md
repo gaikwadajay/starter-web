@@ -12,6 +12,8 @@ This is the Introductory part
 
 ## Deployment
 
-This contains Deployment part for demos
+This contains Deployment part for demos of the project
 
 ## How to Contribute
+
+This contains contribute part for the project 
