@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+Copyright Git.Train
+-->
+<head>
+<<<<<<< HEAD
+	<title>A Very respectful website</title>
+=======
+	<title>An Great Website</title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			Im not sure what will go here
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Ajay Company 2014</p>
+=======
+			Some Dummy Text
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Git Training </p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
