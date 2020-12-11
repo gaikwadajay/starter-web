@@ -17,3 +17,5 @@ This contains Deployment part for demos of the project
 ## How to Contribute
 
 This contains contribute part for the project 
+
+## Copyright Notice
