@@ -16,6 +16,7 @@ This contains Deployment part for demos of the project
 
 ## How to Contribute
 
-This contains contribute part for the project 
+This contains contribute part for the project
+Please fork this repo and then issue pull request 
 
 ## Copyright Notice
